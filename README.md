@@ -20,3 +20,19 @@
 **Tipo**: Comportamiento
 
 **Justificación**: El sistema debe notificar automáticamente a todos los inscritos cuando ocurren cambios relevantes en un evento (cambio de estado, cancelación, modificación de fecha, cupo lleno). El patron Observer va a permitir que los inscritos se suscriban a un evento y reciban notificaciones automáticas sin que exista una conexion directa entre el evento y los mecanismos de notificación.
+
+## Requerimientos del Sistema
+
+### Requerimientos Funcionales
+
+**RF1**: El sistema debe dejar crear eventos según su tipo (Conferencia, Taller, Hackathon) aplicando las reglas específicas de cada uno y en este requerimiento se puede usar el patrón Factory Method.
+
+**RF2**: El sistema debe dejar inscribir a  los usuarios a eventos, pero tambien debe validar el cupo máximo y los requisitos específicos que tenga cada tipo de evento.
+
+**RF3**: El sistema debe notificar automáticamente a todos los inscritos cuando un evento cambie de estado, acá se puede usar el patrón Observer.
+
+### Requerimientos No Funcionales
+
+**RNF1**: El sistema debe validar que los correos de profesores terminen en @escuelaing.edu.co y los de estudiantes en @mail.escuelaing.edu.co.
+
+**RNF2**: El sistema no va a almacenar información de usuarios, sino que la va a consumir desde sistemas externos (RRHH y Académico).

@@ -36,3 +36,16 @@
 **RNF1**: El sistema debe validar que los correos de profesores terminen en @escuelaing.edu.co y los de estudiantes en @mail.escuelaing.edu.co.
 
 **RNF2**: El sistema no va a almacenar información de usuarios, sino que la va a consumir desde sistemas externos (RRHH y Académico).
+
+## Diagramas Casos de Uso
+
+
+
+**Historia de Usuario**:
+> Como profesor, quiero crear una conferencia sobre ciclos para que los estudiantes puedan inscribirse y asistir al evento.
+
+### RF3: Notificación de Cambios
+
+|
+**Historia de Usuario**:
+> Como estudiante inscrito en un taller, quiero recibir una notificación automática cuando el evento cambie de fecha para poder ajustar mi agenda.

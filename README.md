@@ -53,3 +53,19 @@
 
 **Historia de Usuario**:
 > Como estudiante inscrito en un taller, quiero recibir una notificación automática cuando el evento cambie de fecha para poder ajustar mi agenda.
+
+## Descomposición de Tareas
+
+### Épica: Gestión de Eventos Académicos
+
+**Historia de Usuario**: Como profesor, quiero crear una conferencia sobre ciclos para que los estudiantes puedan inscribirse y asistir al evento.
+
+
+**Tareas**:
+
+1. **Implementar metodo para creación de eventos**
+
+2. **Desarrollar validación de permisos de usuario**
+
+3. **Crear clases para los eventos**
+

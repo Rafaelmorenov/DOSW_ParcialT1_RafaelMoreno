@@ -39,6 +39,8 @@
 
 ## Diagramas Casos de Uso
 
+### RF1: Crear Eventos
+
 <img width="451" height="391" alt="image" src="https://github.com/user-attachments/assets/e20a2d4d-fc64-4fa2-9842-6e91a5c2b1a2" />
 
 

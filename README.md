@@ -39,6 +39,7 @@
 
 ## Diagramas Casos de Uso
 
+<img width="451" height="391" alt="image" src="https://github.com/user-attachments/assets/e20a2d4d-fc64-4fa2-9842-6e91a5c2b1a2" />
 
 
 **Historia de Usuario**:
@@ -46,6 +47,7 @@
 
 ### RF3: Notificación de Cambios
 
-|
+<img width="415" height="381" alt="image" src="https://github.com/user-attachments/assets/7109053a-e7e7-4c1b-bea7-b4907303b578" />
+
 **Historia de Usuario**:
 > Como estudiante inscrito en un taller, quiero recibir una notificación automática cuando el evento cambie de fecha para poder ajustar mi agenda.

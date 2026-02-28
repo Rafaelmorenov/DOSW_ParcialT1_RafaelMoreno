@@ -68,4 +68,6 @@
 2. **Desarrollar validación de permisos de usuario**
 
 3. **Crear clases para los eventos**
+## Descomposición de Tareas
+> Se agrega el codigo, pero no me alcanzó el timpo, estaba muy largo profe :(((
 
